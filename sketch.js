@@ -44,6 +44,7 @@ function preload() {
   song = loadSound("Squid Game Main Theme Soundtrack _ Way Back Then _ Netflix OST.mp3");
 }
 
+//bletooth init and canvas setup
 function setup() {
   // Create a p5ble class
   p1ServiceUuid = p1ServiceUuid.toLowerCase();
