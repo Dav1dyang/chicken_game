@@ -20,6 +20,7 @@ let p2SwitchValue = false;
 let player2BLE;
 let p2CharNum;
 
+// Set up for the p5 game
 let timer = 5;
 let song;
 let mode = 0;
